@@ -20,3 +20,7 @@ runs:
       shell: bash
     - run: flutter precache
       shell: bash
+                    - name: Flutter SDK
+                uses: MobileDevOps/flutter-sdk-action@v1.0.0
+
+        
